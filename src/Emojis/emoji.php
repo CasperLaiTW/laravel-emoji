@@ -39,6 +39,7 @@ return [
     "relieved"                  => "\u{1F60C}",
     "sunglasses"                => "\u{1F60E}",
     "heart_eyes"                => "\u{1F60D}",
+    "smirk"                     => "\u{1F60F}",
     "kissing_heart"             => "\u{1F618}",
     "kissing"                   => "\u{1F617}",
     "kissing_smiling_eyes"      => "\u{1F619}",
