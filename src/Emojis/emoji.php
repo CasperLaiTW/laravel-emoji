@@ -40,6 +40,7 @@ return [
     "sunglasses"                => "\u{1F60E}",
     "heart_eyes"                => "\u{1F60D}",
     "smirk"                     => "\u{1F60F}",
+    "unamused"                  => "\u{1F612}",
     "kissing_heart"             => "\u{1F618}",
     "kissing"                   => "\u{1F617}",
     "kissing_smiling_eyes"      => "\u{1F619}",
@@ -59,10 +60,13 @@ return [
     "sleepy"                    => "\u{1F62A}",
     "tired"                     => "\u{1F62B}",
     "loudly_cry"                => "\u{1F62D}",
+    "open_mouth"                => "\u{1F62E}",
+    "hushed"                    => "\u{1F62F}",
     "cold_sweat"                => "\u{1F630}",
     "scream"                    => "\u{1F631}",
     "astonished"                => "\u{1F632}",
     "flushed"                   => "\u{1F633}",
+    "sleeping"                  => "\u{1F634}",
     "dizzy_face"                => "\u{1F635}",
     "mask"                      => "\u{1F637}",
     "grinning_cat"              => "\u{1F638}",
@@ -85,5 +89,5 @@ return [
     "pray"                      => "\u{1F64F}",
     "relaxed"                   => "\u{263A}",
     "white_check_mark"          => "\u{2705}",
-    "question"                  => "\u{2753}"
+    "question"                  => "\u{2753}",
 ];
