@@ -46,6 +46,7 @@ return [
     "kissing_closed_eyes"       => "\u{1F61A}",
     "stuck_out_tongue"          => "\u{1F61C}",
     "stuck_out_tongue_closed_eyes" => "\u{1F61D}",
+    "stuck_out_tongue_winking_eyes" => "\u{1F61C}",
     "disappointed"              => "\u{1F61E}",
     "angry"                     => "\u{1F620}",
     "pout"                      => "\u{1F621}",
