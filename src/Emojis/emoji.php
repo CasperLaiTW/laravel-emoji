@@ -90,4 +90,7 @@ return [
     "relaxed"                   => "\u{263A}",
     "white_check_mark"          => "\u{2705}",
     "question"                  => "\u{2753}",
+    "tada"                      => "\u{1F389}",
+    "thumbsup"                  => "\u{1F44D}",
+    "thumbsdown"                => "\u{1F44E}",
 ];
