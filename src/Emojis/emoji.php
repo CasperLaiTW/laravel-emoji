@@ -91,5 +91,4 @@ return [
     "white_check_mark"          => "\u{2705}",
     "question"                  => "\u{2753}",
     "tada"                      => "\u{1F389}",
-    "sunglasses"                => "\u{1F60E}",
 ];
